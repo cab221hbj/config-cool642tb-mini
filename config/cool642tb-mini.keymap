@@ -29,7 +29,7 @@
 
         left_click {
             bindings = <&mkp MB1>;
-            key-positions = <18 17>;
+            key-positions = <19 20>;
         };
 
         right_click {
