@@ -26,6 +26,16 @@
             bindings = <&kp LANG1>;
             key-positions = <18 19>;
         };
+
+        left_click {
+            bindings = <&mkp MB1>;
+            key-positions = <18 17>;
+        };
+
+        right_click {
+            bindings = <&mkp MB2>;
+            key-positions = <20 21>;
+        };
     };
 
     behaviors {
