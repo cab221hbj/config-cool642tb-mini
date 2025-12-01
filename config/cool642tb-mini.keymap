@@ -77,8 +77,8 @@
             bindings = <
 &kp N1        &kp N2  &kp N3        &kp SEMI   &kp COLON                              &kp F1  &kp F2  &kp F3    &kp UP_ARROW    &kp PAGE_UP
 &kp NUMBER_4  &kp N5  &kp NUMBER_6  &kp SLASH  &kp EQUAL  &trans              &kp F4  &kp F5  &kp F6  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT
-&kp N7        &kp N8  &kp N9        &kp N0     &kp PLUS   &kp QUESTION        &kp F7  &kp F8  &kp F9  &kp F10   &kp F11         &kp RIGHT_SHIFT
-&trans        &trans  &trans        &trans     &trans     &kp LEFT_SHIFT      &trans  &trans                                    &kp PAGE_DOWN
+&kp N7        &kp N8  &kp N9        &kp N0     &kp PLUS   &kp QUESTION        &kp F7  &kp F8  &kp F9  &kp F10   &kp F11         &kp PAGE_DOWN
+&trans        &trans  &trans        &trans     &trans     &kp LEFT_SHIFT      &trans  &trans                                    &kp RIGHT_SHIFT
             >;
         };
 
